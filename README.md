@@ -37,7 +37,7 @@
   
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Next.js | UI/UX Design | Firebase
+- 🔧 &nbsp; Gatsby.js | UI/UX Design 
 
 <hr>
 
