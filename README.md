@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Jay Prakash</h2>
+### Hi there 👋<h2> I'm Jay Kalia</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -8,9 +8,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Electrical Engineering at CET, Bhubaneswar and coding stuffs simultaneously.
+- 🎓 &nbsp; Electrical Engineering grad from  OUTR(formerly CET), Bhubaneswar.
 
-- 🌱 &nbsp; Learning Frontend Web Development using React JS.
+- 🌱 &nbsp; Buliding Frontend using React JS and Angular, Backend with Flask and Golang.
 
 - ✍️ &nbsp; Pursuing Web Development and Blog Writing as hobbies/side hustles.
 
