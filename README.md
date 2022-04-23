@@ -20,26 +20,19 @@
 
 
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<h4>CORE</h4>
+  <h6>Java , C++ , Python</h6>
+  
+<h4>WEB</h4>
+  <h6>React JS , Angular</h6>
+  <h6>Golang , Flask</h6>
+  <h6>Tailwind CSS, Bulma CSS , Bootstrap</h6>
   
 <h3>🛠 Currently working on</h3>
 
-- 🔧 &nbsp; Angular.js | Golang | MongoDB
+- 🔧 &nbsp; Angular | React JS | Flask | Golang | MongoDB
 
 <hr>
-
-
 
 <br/><br/>
 
@@ -55,17 +48,11 @@
 
 <br><br>
 
-
-
 <hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-
 
 <p align="center">
 
@@ -75,19 +62,9 @@
 [![GitHub JAYKALIA007](https://img.shields.io/github/followers/JAYKALIA007?label=follow&style=social)](https://github.com/JAYKALIA007)
 [![](https://img.shields.io/badge/LeetCode-jay_prakash-brightgreen)](https://leetcode.com/jay_prakash_kalia/)
 
-
-
 </p>
 
-
-
-
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JAYKALIA007.visitor-badge)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
 
 <hr>
 
