@@ -13,6 +13,12 @@
 
 - ✍️ &nbsp; Pursuing Web Development and Blog Writing as hobbies/side hustles.
 
+<h6>For private contributions</h6>
+
+[![GitHub jaykalia07](https://img.shields.io/github/followers/jaykalia07?label=Visit&style=social)](https://github.com/jaykalia07)
+
+</p>
+
 
 
 <h3>🛠 Tech Stack</h3>
@@ -29,13 +35,10 @@
   
 <h3>🛠 Currently working on</h3>
 
-- 🔧 &nbsp; Angular | React JS | Flask | Golang | MongoDB
+- 🔧 &nbsp; React JS | TypeScript | JavaScript | Tailwind CSS
 
 <hr>
 
-<br/><br/>
-
-[![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAYKALIA007&show_icons=true)](https://github.com/JAYKALIA007)
 
 <br/>
 
@@ -62,8 +65,6 @@
 [![](https://img.shields.io/badge/LeetCode-jay_prakash-brightgreen)](https://leetcode.com/jay_prakash_kalia/)
 
 </p>
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JAYKALIA007.visitor-badge)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <hr>
 
