@@ -13,11 +13,10 @@
 
 - ✍️ &nbsp; Pursuing Web Development and Blog Writing as hobbies/side hustles.
 
-<h6>For private contributions</h6>
 
-[![GitHub jaykalia07](https://img.shields.io/github/followers/jaykalia07?label=Visit&style=social)](https://github.com/jaykalia07)
+### 👇 For private contributions(to Toplyne in the last months)- 
+[![GitHub jaykalia07](https://img.shields.io/github/followers/jaykalia07?label=jaykalia07&style=social)](https://github.com/jaykalia07)
 
-</p>
 
 
 
