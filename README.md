@@ -14,8 +14,10 @@
 - ✍️ &nbsp; Pursuing Web Development and Blog Writing as hobbies/side hustles.
 
 
-### 👇 For private contributions(to Toplyne in the last months)- 
-[![GitHub jaykalia07](https://img.shields.io/github/followers/jaykalia07?label=jaykalia07&style=social)](https://github.com/jaykalia07)
+### 👇 For private contributions
+to Toplyne -  [![GitHub jaykalia07](https://img.shields.io/github/followers/jaykalia07?label=jaykalia07&style=social)](https://github.com/jaykalia07)
+
+to Rizzle -  [![GitHub jaykalia18](https://img.shields.io/github/followers/jaykalia18?label=jaykalia18&style=social)](https://github.com/jaykalia18)
 
 
 
